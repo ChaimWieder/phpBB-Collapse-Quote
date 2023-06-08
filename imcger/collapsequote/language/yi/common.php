@@ -46,47 +46,47 @@ $lang = array_merge($lang, [
 	'ACP_IMCGER_LANG_AUTHOR'					=> 'איל משולש',
 
 	// Message text
-	'COLLAPSEQUOTE_SETTING_SAVED'				=> 'The settings have been saved successfully.',
-	'COLLAPSEQUOTE_USER_SETTING_SAVED'			=> 'The settings were successfully saved for all users.',
-	'COLLAPSEQUOTE_DEFAULT_SETTING_SAVED'		=> 'The default settings for new users and guests have been saved successfully.',
+	'COLLAPSEQUOTE_SETTING_SAVED'				=> 'די אנשטעלונגען זענען סוקסעספול געווארן אפגעהיטן.',
+	'COLLAPSEQUOTE_USER_SETTING_SAVED'			=> 'די אנשטעלונגען זענען סוקסעספול געווארן אפגעהיטן פאר אלע באנוצער.',
+	'COLLAPSEQUOTE_DEFAULT_SETTING_SAVED'		=> 'די דיפאולט אנשטעלונגען פאר געסט און נייע באנוצער זענען סוקסעספול געווארן אפגעהיטן.',
 
 	// Confirm Box
 	'COLLAPSEQUOTE_SAVE'						=> 'היט אפ',
 	'COLLAPSEQUOTE_USER_SET'					=> 'באשטעטיג',
-	'COLLAPSEQUOTE_USER_SET_CONFIRM'			=> 'Are you sure you want to overwrite the user settings?<br><br>This will overwrite all user settings with your defaults.<br><strong>This process cannot be undone!</strong>',
+	'COLLAPSEQUOTE_USER_SET_CONFIRM'			=> 'ביסטו זיכער אז דו ווילסט איבערשרייבן די באניצער אנשטעלונגען?<br><br>דאס וועט טוישן יעדעמס אנשטעלונגען צו וויאזוי דו האסט יעצט אנגעשטעלט.<br><strong>דאס קען מען נישט צוריק טוישן נאכדעם!</strong>',
 
 	// Extension description
-	'COLLAPSEQUOTE_TITLE'						=> 'Collapse Quote',
-	'COLLAPSEQUOTE_TITLE_EXPLAIN'				=> 'Here you can set the size of the quote box and the colours of the button used to resize the quote box.',
+	'COLLAPSEQUOTE_TITLE'						=> 'קאלעפס קוואוט',
+	'COLLAPSEQUOTE_TITLE_EXPLAIN'				=> 'דא קענסטו אנשטעלן די גרויס פון די ציטאט, און די קאליר פון דעם קנעפל עס צו גרויס/קליין מאכן.',
 
 	// User settings
-	'COLLAPSEQUOTE_SETTINGS_USER'				=> 'Settings for guests and new users',
+	'COLLAPSEQUOTE_SETTINGS_USER'				=> 'אנשטעלונגען פאר געסט און נייע באנוצער',
 
 	'COLLAPSEQUOTE_ACTIVE'						=> 'פארקלענער ציטאטן',
-	'COLLAPSEQUOTE_ACTIVE_DESC'					=> 'The quotes are minimized to the number of visible lines and can be displayed in full with a mouse click.',
+	'COLLAPSEQUOTE_ACTIVE_DESC'					=> 'די ציטאטן ווערן פארקלענערט צו די צאל שורות וואס ווערן געוויזן, און די גאנצע ווערט געוויזן מיט א קליק מיטן מייזל.',
 
 	'COLLAPSEQUOTE_VISIBLE_LINES'				=> 'צאל געוויזענע שורות',
 	'COLLAPSEQUOTE_VISIBLE_LINES_DESC'			=> 'סכום פון שורות וואס זאלן געוויזן ווערן אינעם פארקלענערטן ציטאט קעסטל.',
 
 	'COLLAPSEQUOTE_TEXT_TOP'					=> 'טעקסט אויסשטעל',
 	'COLLAPSEQUOTE_TEXT_TOP_DESC'				=> 'וועלכע טייל פונעם טעקסט זאל געזען ווערן אינעם קעסטל.',
-	'COLLAPSEQUOTE_TEXT_TOP_DESC_ACP'			=> 'When activated, the first lines are displayed in the minimized state. When deactivated, the last lines.',
+	'COLLAPSEQUOTE_TEXT_TOP_DESC_ACP'			=> 'ווען אנגעצינדן, ווערן די אויבערשטע שורות געוויזן. ווען פארלאשן, די אונטערשטע.',
 	'TOP'										=> 'אויבערשטע',
 	'BOTTOM'									=> 'אונטערשטע',
 
-	'COLLAPSEQUOTE_OVERWRITE_USERSET'			=> 'Overwrite user settings',
+	'COLLAPSEQUOTE_OVERWRITE_USERSET'			=> 'טויש באניצער אנשטעלונגען',
 	'COLLAPSEQUOTE_OVERWRITE_USERSET_DEC'		=> 'With this selection, the settings of all users are overwritten. If you select "Off", only default values for guests and new users will be set.',
 
 	// General settings
 	'COLLAPSEQUOTE_SETTINGS_STYLE'				=> 'אנשטעלונגען',
 
-	'COLLAPSEQUOTE_BUTTON_FG_COLOR'				=> 'Foreground button colour',
+	'COLLAPSEQUOTE_BUTTON_FG_COLOR'				=> 'קאליר',
 	'COLLAPSEQUOTE_BUTTON_FG_COLOR_DESC'		=> 'Selection of the font colour of the button to max-/minimize the quote box. If the field is empty, the system colour is used.',
-	'COLLAPSEQUOTE_BUTTON_BG_COLOR'				=> 'Background button colour',
+	'COLLAPSEQUOTE_BUTTON_BG_COLOR'				=> 'הינטערגרינד קאליר',
 	'COLLAPSEQUOTE_BUTTON_BG_COLOR_DESC'		=> 'Selection of the background button colour.  If the field is empty, the system colour is used.',
 
-	'COLLAPSEQUOTE_BUTTON_FG_COLOR_HOVER'		=> 'Foreground button colour for mouseover-effect',
+	'COLLAPSEQUOTE_BUTTON_FG_COLOR_HOVER'		=> 'קאליר ווען מען האווערט דעם מייז',
 	'COLLAPSEQUOTE_BUTTON_FG_COLOR_HOVER_DESC'	=> 'Selection of the font colour of the button for enlarging or reducing the quotation mark field, when moving the mouse over it. No colour change occurs if the field is empty.',
-	'COLLAPSEQUOTE_BUTTON_BG_COLOR_HOVER'		=> 'Background button colour for mouseover-effect',
+	'COLLAPSEQUOTE_BUTTON_BG_COLOR_HOVER'		=> 'הינטערגרינד קאליר ווען מען האווערט דעם מייז',
 	'COLLAPSEQUOTE_BUTTON_BG_COLOR_HOVER_DESC'	=> 'Selection of the button background colour, when moving the mouse over it. No colour change occurs if the field is empty.',
 ]);
