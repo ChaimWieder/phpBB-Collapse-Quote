@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, [
-	'ACP_COLLAPSEQUOTE_TITLE'			=> 'פארקלערנער ציטאטן',
+	'ACP_COLLAPSEQUOTE_TITLE'			=> 'קאלעפס קוואוט',
 	'ACP_COLLAPSEQUOTE_SETTINGS'		=> 'אנשטעלונגען',
 	'ACP_COLLAPSEQUOTE_SETTING_SAVED'	=> 'אנשטעלונגען זענען סוקסעספול  אפגעהיטן געווארן.',
 
